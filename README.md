@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ope Oluwaferanmi
 - 👀 I’m interested in solving problems using programming languages
-- 🌱 I’m currently learning Python, HTML, CSS, JAVA Script
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently a Python, HTML, CSS, JavaScript and Django developer
+- 💞️ I’m looking to collaborate on python or Django powered projects
 - 📫 How to reach me opeoluwaferanmi89@gmail.com
 
 <!---
